@@ -1,0 +1,21 @@
+﻿ID,NAME,SUBMITTED_HOURS,FORECASTED_HOURS,ACTUAL_REVENUE,FORECASTED_REVENUE
+PRJ1,Project Name 1,119.00,110.00,"$28,400.00","$11,220.00"
+PRJ2,Project Name 2,55,470,"$11,000.00 ","$94,000.00 "
+PRJ3,Project Name 3,139,0,"$55,600.00 ",$0.00 
+PRJ4,Project Name 4,0.00,0.00,$0.00,$0.00
+PRJ5,Project Name 5,222.00,499.00,"$22,200.00","$68,700.00"
+PRJ6,Project Name 6,0,0,$0.00 ,$0.00 
+PRJ7,Project Name 7,209,268,"$45,500.00 ","$53,600.00 "
+PRJ8,Project Name 8,257.00,562.00,$0.00,$0.00
+PRJ9,Project Name 9,0.00,0.00,$0.00,$0.00
+PRJ10,Project Name 10,604,580,"$160,400.00 ","$137,200.00 "
+PRJ11,Project Name 11,604,166,"$69,750.00 ","$41,500.00 "
+PRJ12,Project Name 12,0.00,0.00,$0.00,$0.00
+PRJ13,Project Name 13,0.00,0.00,$0.00,$0.00
+PRJ14,Project Name 14,193,1588,"$92,500.00 ","$550,750.00 "
+PRJ15,Project Name 15,266,185,"$49,400.00 ","$18,500.00 "
+PRJ16,Project Name 16,309.00,150.00,$0.00,$0.00
+PRJ17,Project Name 17,0.00,0.00,$0.00,$0.00
+PRJ18,Project Name 18,0,0,$0.00 ,$0.00 
+PRJ19,Project Name 19,0,0,$0.00 ,$0.00 
+PRJ20,Project Name 20,496.00,0.00,"$134,100.00",$0.00
