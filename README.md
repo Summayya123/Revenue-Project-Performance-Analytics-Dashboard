@@ -28,7 +28,7 @@ Identifying which projects generate the most profit
 •	Utilization Rate
 
 # Dashboard
-- <a href="https://github.com/Summayya123/Revenue-Project-Performance-Analytics-Dashboard/blob/main/ProjectRevenueDashboard.pbix"> Dashboard </a>
+- <a href="https://github.com/Summayya123/Revenue-Project-Performance-Analytics-Dashboard/blob/main/ProjectRevenueDashboard.pbix"> Dashboard</a>
 
 # Final Conclusion
 It helps organizations to:
