@@ -10,8 +10,8 @@ GitHub
 
 # Dataset- 
 - <a href="https://github.com/Summayya123/Revenue-Project-Performance-Analytics-Dashboard/blob/main/TimeCard.csv"> TimeCard </a>
-- < a href="https://github.com/Summayya123/Revenue-Project-Performance-Analytics-Dashboard/blob/main/Project.csv"> Project </a>
-- < a href="https://github.com/Summayya123/Revenue-Project-Performance-Analytics-Dashboard/blob/main/Assignment.csv"> Assignment </a>
+- <a href="https://github.com/Summayya123/Revenue-Project-Performance-Analytics-Dashboard/blob/main/Project.csv"> Project </a>
+- <a href="https://github.com/Summayya123/Revenue-Project-Performance-Analytics-Dashboard/blob/main/Assignment.csv"> Assignment </a>
 
 # A company managing multiple projects faced challenges in:
 Tracking revenue across projects
